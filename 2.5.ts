@@ -1,5 +1,5 @@
 {
-    function with generics
+    // function with generics
     const createArray = (params: string): string[] => {
         return [params];
     }
